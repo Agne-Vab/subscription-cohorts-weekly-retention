@@ -33,8 +33,8 @@ If you'd like to replicate the analysis, you may substitute with a similar datas
 ## Key Findings
 <div style="display: flex; justify-content: center;">
 
-<img src="images/retention_cohorts_percentages.png" alt="Retention Cohorts Percentages" width="420" style="margin-right: 20px;"/>
-<img src="images/retention_cohorts_numbers.png" alt="Retention Cohorts Numbers" width="420"/>
+<img src="images/retention_cohorts_percentages.png" alt="Retention Cohorts Percentages" width="410" style="margin-right: 20px;"/>
+<img src="images/retention_cohorts_numbers.png" alt="Retention Cohorts Numbers" width="410"/>
 
 </div>
 
