@@ -32,8 +32,8 @@ If you'd like to replicate the analysis, you may substitute with a similar datas
 
 ## Key Findings
 
-<img src="images/retention_cohorts_percentages.png" alt="Retention Cohorts Percentages" width="400" style="margin-right: 20px;"/>
-<img src="images/retention_cohorts_numbers.png" alt="Retention Cohorts Numbers" width="400"/>
+<img src="images/retention_cohorts_percentages.png" alt="Retention Cohorts Percentages" width="250" style="margin-right: 20px;"/>
+<img src="images/retention_cohorts_numbers.png" alt="Retention Cohorts Numbers" width="250"/>
 
 - Most subscriptions were started a couple of weeks before the Christmas period (starting 2020-12-06).
 - Retention rates peaked for subscriptions started between late December and early January, with these subscribers showing the highest engagement in the following weeks.
