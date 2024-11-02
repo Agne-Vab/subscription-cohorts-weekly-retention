@@ -1,4 +1,4 @@
-# Weekly Retention Cohorts Analysis for Subscription Churn
+# Weekly Retention Cohorts Analysis for Subscriptions
 
 ## Introduction
 
@@ -31,6 +31,9 @@ If you'd like to replicate the analysis, you may substitute with a similar datas
 - **Google Sheets** – for creating quick visualizations of cohort retention data.
 
 ## Key Findings
+
+<img src="images/retention_cohorts_percentages.png" alt="Retention Cohorts Percentages" width="480" style="margin-right: 20px;"/>
+<img src="images/retention_cohorts_numbers.png" alt="Retention Cohorts Numbers" width="480"/>
 
 - Most subscriptions were started a couple of weeks before the Christmas period (starting 2020-12-06).
 - Retention rates peaked for subscriptions started between late December and early January, with these subscribers showing the highest engagement in the following weeks.
