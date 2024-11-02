@@ -13,10 +13,10 @@ This project was developed using a proprietary dataset provided for educational 
 The data contains information on subscriber activity with columns as follows:
 
 - **"user_pseudo_id"** - unique, anonymized identifier for each subscriber.
-- **"category"** - type of subscription access (e.g., "desktop" or "mobile").
+- **"category"** - type of subscription access (e.g., `desktop` or `mobile`).
 - **"country"** - country of the subscriber.
 - **"subscription_start"** - start date of the subscription for each user.
-- **"subscription_end"** - end date of the subscription, if applicable (null if the subscription is active).
+- **"subscription_end"** - end date of the subscription, if applicable (`null` if the subscription is active).
 
 If you'd like to replicate the analysis, you may substitute with a similar dataset.
 
@@ -56,8 +56,8 @@ To enhance this project in the future, the following could be added:
 
 ## How to Use This Repository
 
-1. **SQL query**: The SQL file contains the code used to extract the cohort data from BigQuery.
-2. **images**: visualizations are provided in the screenshots.
+1. **"SQL query"** - The SQL file contains the code used to extract the cohort data from BigQuery.
+2. **"images"** - visualizations are provided in the screenshots.
 
 ## Contact
 LinkedIn - [Agnė Vabalaitė](www.linkedin.com/in/agnė-vabalaitė).
