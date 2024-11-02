@@ -10,13 +10,13 @@ Since this was a learning task, it’s scoped to be a quick analysis rather than
 
 This project was developed using a proprietary dataset provided for educational purposes, which is not included in the repository due to restrictions. Redistribution or commercial use of the project contents is not permitted.
 
-Below is a description of the dataset structure:
+The data contains information on subscriber activity with columns as follows:
 
-- user_pseudo_id.
-- category.
-- country.
-- subscription_start.
-- subscription_end.
+- **"user_pseudo_id"** - unique, anonymized identifier for each subscriber.
+- **"category"** - type of subscription access (e.g., "desktop" or "mobile").
+- **"country"** - country of the subscriber.
+- **"subscription_start"** - start date of the subscription for each user.
+- **"subscription_end"** - end date of the subscription, if applicable (null if the subscription is active).
 
 If you'd like to replicate the analysis, you may substitute with a similar dataset.
 
