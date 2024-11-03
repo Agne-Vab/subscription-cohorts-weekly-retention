@@ -56,8 +56,8 @@ To enhance this project in the future, the following could be added:
 
 ## How to Use This Repository
 
-1. **"SQL query"** - The SQL file contains the code used to extract the cohort data from BigQuery.
-2. **"images"** - visualizations are provided in the screenshots.
+1. **"queries"** - SQL queries are available in this folder that were used to extract the cohort data from BigQuery.
+2. **"images"**: visualizations from Google Sheets are provided as screenshots in this folder.
 
 ## Contact
 LinkedIn - [Agnė Vabalaitė](www.linkedin.com/in/agnė-vabalaitė).

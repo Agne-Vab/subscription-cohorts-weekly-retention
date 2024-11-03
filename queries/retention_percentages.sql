@@ -1,5 +1,3 @@
--- Churn with sub numbers
-
 WITH
   sub AS (
   SELECT
