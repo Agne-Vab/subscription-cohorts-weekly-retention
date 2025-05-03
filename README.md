@@ -60,5 +60,5 @@ To enhance this project in the future, the following could be added:
 2. **"images"**: visualizations from Google Sheets are provided as screenshots in this folder.
 
 ## Contact
-LinkedIn - [Agnė Vabalaitė](www.linkedin.com/in/agnė-vabalaitė).
+LinkedIn - [Agnė Vabalaitė](https://www.linkedin.com/in/agne-vabalaite).
 Gmail - vab.agne@gmail.com
